@@ -1,4 +1,4 @@
-#include <Wire.h>
+#include <WireEx.h>
 
 #define SLAVE_ADDRESS 0x50
 
